@@ -1,5 +1,6 @@
-# 🚀 Web Portofolio Profesional 
-Repositori ini dibuat untuk memenuhi tugas UAS mata kuliah Personal Branding Digital. Web portofolio ini menampilkan profil, keahlian, dan rekam jejak proyek saya selama masa perkuliahan.
+# 🚀 Web Portofolio Profesional - Personal Branding Digital
+
+Repositori ini berisi kode sumber untuk website portofolio profesional saya. Website ini berfungsi sebagai alat distribusi branding yang merangkum data diri, keahlian teknis, sertifikasi, serta rekam jejak proyek saya selama masa perkuliahan.
 
 ### 📸 Tampilan Preview Web
 <p align="center">
@@ -13,12 +14,12 @@ Repositori ini dibuat untuk memenuhi tugas UAS mata kuliah Personal Branding Dig
 * **Institusi:** Universitas Universal, Batam
 * **Live Website:** [ghedi.github.io/edison-portfolio/](https://ghedi.github.io/edison-portfolio/)
 
-### 🛠️ Teknologi yang Digunakan
-* **HTML5** (Struktur Semantik)
-* **Tailwind CSS via CDN** (Desain Responsif & Modern)
-* **Google Fonts (Inter)** (Tipografi Profesional)
+### 🛠️ Tech Stack & Peralatan
+* **HTML5** - Arsitektur struktur semantik web yang bersih dan SEO-friendly.
+* **Tailwind CSS (via CDN)** - Framework CSS modern untuk penyusunan UI responsif dan estetik.
+* **Google Fonts (Inter)** - Optimalisasi tipografi profesional.
 
-### 📂 Proyek yang Ditampilkan
-1. **Belens** – Aplikasi Mobile Pemindai Minuman (Top 50 Capstone Project Bangkit Academy 2024).
-2. **DrinkGrade** – Arsitektur Sistem Rekomendasi Kadar Gula Berbasis Web (Proyek Skripsi Utama).
-3. **HIMAPL** – Pengalaman Kepemimpinan di Himpunan Mahasiswa Perangkat Lunak.
+### 💻 Cara Menjalankan Project secara Lokal
+1. Melakukan clone repositori ini ke komputer lokal Anda:
+   ```bash
+   git clone [https://github.com/GHedi/edison-portfolio.git](https://github.com/GHedi/edison-portfolio.git)
