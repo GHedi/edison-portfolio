@@ -1,5 +1,4 @@
-# 🚀 Web Portofolio Profesional - UTS Personal Branding
-
+# 🚀 Web Portofolio Profesional 
 Repositori ini dibuat untuk memenuhi tugas UTS mata kuliah Personal Branding. Web portofolio ini menampilkan profil, keahlian, dan rekam jejak proyek saya selama masa perkuliahan.
 
 ### 👤 Profil Mahasiswa
