@@ -1,4 +1,4 @@
-# 🚀 Web Portofolio Profesional - Personal Branding Digital
+# 🚀 Web Portofolio Profesional
 
 Repositori ini berisi kode sumber untuk website portofolio profesional saya. Website ini berfungsi sebagai alat distribusi branding yang merangkum data diri, keahlian teknis, sertifikasi, serta rekam jejak proyek saya selama masa perkuliahan.
 
